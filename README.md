@@ -9,6 +9,10 @@ This toolhead is for the Goliath hotend. if uses:
 
 The toolhead need to be printed “up-side-down”, which minimises the supports needed. I use PrusaSlicer with tree supports. Other settings at your discretion, but I like to play it save, so better more perimeters, more infill etc.
 
+v1.7.2
+- optimised duct so it would print dual-wall with a 0.6 nozzle
+- slightly optimised heat insert cut-out
+
 v1.7.1 improvment 
 - added small air guiding restirctions to better cool the hotend
 
