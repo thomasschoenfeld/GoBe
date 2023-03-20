@@ -45,6 +45,6 @@ I am keeping v1.6 as an older version, as the clearance on that is a bit more. J
 
 ![GoBe toolhead](img/10.png)
 
-![GoBe toolhead](img/11.png)
+![GoBe toolhead](img/11.jpeg)
 
-![GoBe toolhead](img/12.png)
+![GoBe toolhead](img/12.jpeg)
