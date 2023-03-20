@@ -26,12 +26,25 @@ v1.7 improvments
 I am keeping v1.6 as an older version, as the clearance on that is a bit more. Just in case / as per personal taste.
 
 ![GoBe toolhead](img/1.png)
+
 ![GoBe toolhead](img/2.png)
+
 ![GoBe toolhead](img/3.png)
+
 ![GoBe toolhead](img/4.png)
+
 ![GoBe toolhead](img/5.png)
+
 ![GoBe toolhead](img/6.png)
+
 ![GoBe toolhead](img/7.png)
+
 ![GoBe toolhead](img/8.png)
+
 ![GoBe toolhead](img/9.png)
+
 ![GoBe toolhead](img/10.png)
+
+![GoBe toolhead](img/11.png)
+
+![GoBe toolhead](img/12.png)
