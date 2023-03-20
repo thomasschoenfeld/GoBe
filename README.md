@@ -19,6 +19,7 @@ v1.7 improvments
 - a clamp for the CPAP tube, which also contains the ADXL mount
 - made some room on the back side of the toolhead and extruder adapter, to possibly and permanently mount an ADXL
 
+I am keeping v1.6 as an older version, as the clearance on that is a bit more. Just in case / as per personal taste.
 
 ![GoBe toolhead](img/1.png)
 ![GoBe toolhead](img/2.png)
