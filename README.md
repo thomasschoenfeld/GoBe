@@ -7,7 +7,18 @@ This toolhead is for the Goliath hotend. if uses:
 - MGN12 rail only
 - “simple” umbilical cord
 
-The toolhead need to be printed “up-side-down”, which minimises the supports needed. I use PrusaSlicer with tree supports. Other settings at your discretion, but I like to play it save, so better more perimeters, more infill etc.
+The toolhead need to be printed “up-side-down”, which minimises the supports needed and supports are inlcuded in the part, so no slicer support required. Other settings at your discretion, but I like to play it save, so better more perimeters, more infill etc.
+
+v1.8.2 > 1 strut version
+v1.8.1 > 2 strut version
+
+v1.8.x
+- moved the goliath and extruder up 2mm and used 1mm of that increased space to thicken the complete back plate of the toolhead
+- improved stability and air flow with better design of the corncer section 
+- improved air flow with a bit wider cut out for the 3010 fan
+- slighty more stabalised air flow fin, which now also has a small hole in it, to better reach on of the mount screws
+- klicky mount is now a selectable add-on
+- improved adapter plate design for easier printing
 
 v1.7.3
 - slight corrections 
