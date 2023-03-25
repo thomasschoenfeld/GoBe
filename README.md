@@ -9,6 +9,12 @@ This toolhead is for the Goliath hotend. if uses:
 
 The toolhead need to be printed “up-side-down”, which minimises the supports needed and supports are inlcuded in the part, so no slicer support required. Other settings at your discretion, but I like to play it save, so better more perimeters, more infill etc.
 
+
+v1.9
+- a stronger top cage was added to decrease vibration by securing cables and tube with zip-ties
+- 1-strut-version of toolhead was omitted vor the same reason. 
+- the strong / stiff top cage currently only works with Hextrudort! One can still use version 1.8 with the lighter top and umbilical cord mount with other extruders.
+
 v1.8.2 > 1 strut version
 v1.8.1 > 2 strut version
 
@@ -39,6 +45,14 @@ v1.7 improvments
 - made some room on the back side of the toolhead and extruder adapter, to possibly and permanently mount an ADXL
 
 I am keeping v1.6 as an older version, as the clearance on that is a bit more. Just in case / as per personal taste.
+
+
+![GoBe toolhead](img/v1.9_full.png)
+
+![GoBe toolhead](img/v1.9_full_back.png)
+
+![GoBe toolhead](img/v1.9_front_empty.png)
+
 
 ![GoBe toolhead](img/1.png)
 
