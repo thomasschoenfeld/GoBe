@@ -14,6 +14,8 @@ v1.9
 - a stronger top cage was added to decrease vibration by securing cables and tube with zip-ties
 - 1-strut-version of toolhead was omitted vor the same reason. 
 - the strong / stiff top cage currently only works with Hextrudort! One can still use version 1.8 with the lighter top and umbilical cord mount with other extruders.
+**v1.9 toolhead does not work with earlier versions of umbilical or hextrudort adapter!**
+**one needs to print Hex_adapter_w_cage, which is now one part.**
 
 v1.8.2 > 1 strut version
 v1.8.1 > 2 strut version
