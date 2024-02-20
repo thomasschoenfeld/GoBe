@@ -10,6 +10,11 @@ This toolhead is for the Goliath hotend. if uses:
 The toolhead need to be printed “up-side-down”, which minimises the supports needed and supports are inlcuded in the part, so no slicer support required. Other settings at your discretion, but I like to play it save, so better more perimeters, more infill etc.
 
 
+v1.9.1
+- toolhead mostly unchanged, more heat inserts
+- the "cage" plate and umbilcal have been simplified and separated, which now makes it possible to exchange the extruder without the need to fully disassemble the cage and the umbilical. Previously, if I wanted to change the extruder, all the umbilical zip ties had to come off.
+
+
 v1.9
 - a stronger top cage was added to decrease vibration by securing cables and tube with zip-ties
 - 1-strut-version of toolhead was omitted vor the same reason. 

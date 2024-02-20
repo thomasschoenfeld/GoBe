@@ -1,0 +1,22 @@
+Horizon Optimization links und Ideen
+
+
+- Farbtiefe > 32bit vs 16bit
+- Client Drive redirection off / 0 
+- simple background / uni-color
+- QoS > TCP vs UDP
+- HTML5 multimedia redirection will transfer this screen content to the client as HTML5 code, offering improved efficiency over traffic delivered by display protocol. According to VMware, HTML5 multimedia redirection can reduce desktop and per-user RDSH server CPU utilization by up to 60 percent and per-user session bandwidth by up to 80 percent.  However, the benefits achieved at the server level can have a significant impact on the client.
+- Client CPU utilization can increase by up to 200 percent for the duration of the redirection (from an average of 8 to 24 percent on a sample test system according to VMware). It also causes some screen content to letterbox, which may impair user experience.
+
+
+Links:
+https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/windows_os_optimization_tool_for_vmware_horizon/1_0
+
+https://docs.vmware.com/de/VMware-Horizon/2312/horizon-remote-desktop-features/GUID-5B4E2061-E798-4A58-BB58-0B6FCC63DFD8.html
+
+https://techzone.vmware.com/resource/vmware-blast-extreme-optimization-guide#introduction
+
+https://kb.igel.com/igelos-10.06.100/en/hardware-video-acceleration-on-igel-os-23509152.html
+
+https://vmblog.com/archive/2022/05/10/40-tips-for-optimizing-vmware-horizon-vdi-s-blast-extreme-protocol.aspx
+
