@@ -2,7 +2,7 @@ Horizon Optimization links und Ideen
 
 
 - Farbtiefe > 32bit vs 16bit
-- 4:2:0 vs 4:4:4
+- 4:2:0 vs 4:4:4 >> https://admx.help/?Category=VMware_Horizon_7&Policy=VMware.Policies.vdm_blast::BLAST_H264_COLOR_ACCURACY_LABEL
 - Client Drive redirection off / 0 
 - simple background / uni-color
 - QoS > TCP vs UDP
@@ -17,6 +17,7 @@ Horizon Optimization links und Ideen
 Links general:
 https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/windows_os_optimization_tool_for_vmware_horizon/1_0
 https://docs.vmware.com/de/VMware-Horizon/2312/horizon-remote-desktop-features/GUID-5B4E2061-E798-4A58-BB58-0B6FCC63DFD8.html
+https://docs.vmware.com/en/VMware-Horizon-Client-for-Windows/2212/horizon-client-windows-installation/GUID-75F6046C-D43A-4264-80AC-B150524CEC71.html
 https://techzone.vmware.com/resource/vmware-blast-extreme-optimization-guide#introduction
 https://kb.igel.com/igelos-10.06.100/en/hardware-video-acceleration-on-igel-os-23509152.html
 https://vmblog.com/archive/2022/05/10/40-tips-for-optimizing-vmware-horizon-vdi-s-blast-extreme-protocol.aspx
