@@ -8,6 +8,10 @@ Horizon Optimization links und Ideen
 - QoS > TCP vs UDP
 - HTML5 multimedia redirection will transfer this screen content to the client as HTML5 code, offering improved efficiency over traffic delivered by display protocol. According to VMware, HTML5 multimedia redirection can reduce desktop and per-user RDSH server CPU utilization by up to 60 percent and per-user session bandwidth by up to 80 percent.  However, the benefits achieved at the server level can have a significant impact on the client.
 - Client CPU utilization can increase by up to 200 percent for the duration of the redirection (from an average of 8 to 24 percent on a sample test system according to VMware). It also causes some screen content to letterbox, which may impair user experience.
+- DPI-Synchronisation und die DPI-Synchronisation pro Monitor >> https://docs.vmware.com/en/VMware-Horizon-Client-for-Windows/2203/horizon-client-windows-installation/GUID-7590B343-8ECF-450A-9245-0E30D8BE0633.html
+- Relative Maus > UMS - Profile-System-Registry-vmware-view-enable relative mouse. Alternativ > https://docs.vmware.com/de/VMware-Horizon-Client-for-Windows/2111/horizon-client-windows-installation/GUID-613BDEAA-CBA4-4BCE-8ED4-AD3D7B00E929.html
+- 
+
 
 
 Links general:
@@ -23,5 +27,8 @@ https://docs.vmware.com/en/VMware-Horizon/2312/horizon-console-administration/GU
 Stress-Test
 http://webglsamples.org
 
-
-
+RegEdit...
+# „Hardware Grafik Accelaration“ > disable > macht die Berechnungen in der VDI und entlastet den Client
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common\Graphics] 
+"DisableHardwareAcceleration"=dword:00000001 
+# 
