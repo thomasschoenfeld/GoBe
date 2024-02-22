@@ -10,7 +10,8 @@ Horizon Optimization links und Ideen
 - Client CPU utilization can increase by up to 200 percent for the duration of the redirection (from an average of 8 to 24 percent on a sample test system according to VMware). It also causes some screen content to letterbox, which may impair user experience.
 - DPI-Synchronisation und die DPI-Synchronisation pro Monitor >> https://docs.vmware.com/en/VMware-Horizon-Client-for-Windows/2203/horizon-client-windows-installation/GUID-7590B343-8ECF-450A-9245-0E30D8BE0633.html
 - Relative Maus > UMS - Profile-System-Registry-vmware-view-enable relative mouse. Alternativ > https://docs.vmware.com/de/VMware-Horizon-Client-for-Windows/2111/horizon-client-windows-installation/GUID-613BDEAA-CBA4-4BCE-8ED4-AD3D7B00E929.html
-- 
+- ADMX (local) files under c\Windows\PolicyDefinitions and the appropiate language folder
+- ADMX via GPO c\Progam Files (86)\MS Group Policy\windows version\PolicyDefinitions
 
 
 
